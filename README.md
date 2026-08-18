@@ -1,5 +1,18 @@
-# Google Colab Activity
+# Distance Calculator
 ## Description
-This program is used to run the distance formula for 2 coordinates
-## How it works
-First, you import a math library into the program, Then make 4 variables set to input so you get to make the coordinates. After, you recreate the formula using "math.sqrt" and "math.pow". To use the "math.pow", you first have to put the equation for each coordinate, then put "math.pow" then the formula for each coordinate and then put a number
+This process is used to find the distance between 2 coordinates.
+## Process
+1. Input the coordinates.
+2. Calculate the difference for x2 and x1.
+3. Calculate the dofference for y2 and y1.
+4. Square both differences.
+5. Add them together.
+6. Find their square root.
+7. Round the distance to 2 decimal places
+8. Print the output
+## Input Needed
+• x1
+• y1
+• x2
+• y2
+
