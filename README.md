@@ -15,6 +15,13 @@ This process is used to find the distance between 2 coordinates.
 - y1
 - x2
 - y2
+## Inputs and the Output
+enter x1: 76
+enter y1: 32
+enter x2: 54
+enter y2: 76
+the distance is:  49.19
+
 
 
   
