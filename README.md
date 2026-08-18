@@ -32,4 +32,4 @@ This process is used to find the distance between 2 coordinates.
 
 ## How to run the code
 
-You will be asked to input x1, y1, x2, and y2, and after you input, it gives you the answer.
+You will be asked to input x1, y1, x2, and y2, and after you input, and it gives you the answer.
