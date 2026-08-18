@@ -1,2 +1,1 @@
 # SamplePythonActivities
-## subtitle
