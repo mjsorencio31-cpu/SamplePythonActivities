@@ -8,8 +8,8 @@ This process is used to find the distance between 2 coordinates.
 4. Square both differences.
 5. Add them together.
 6. Find their square root.
-7. Round the distance to 2 decimal places
-8. Print the output
+7. Round the distance to 2 decimal places.
+8. Print the output.
 ## Input Needed
 - x1
 - y1
